@@ -27,7 +27,7 @@ This app provides services to manage bank customers using REST APIs. Spring Boot
 ##### 1. Clone the application
 
 ```
-$ git clone https://github.com/doyunbk/Bank-Customer-Data-APIs
+$ git clone https://github.com/doyunbk/bank-spring-boot.git
 $ cd Bank-Customer-Data-APIs
 ```
 
