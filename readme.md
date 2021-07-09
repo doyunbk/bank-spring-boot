@@ -8,6 +8,7 @@ A simple REST API built with Spring boot to manage customer data for a bank
 - JDK 8
 - Spring Boot 2.4.8
 - Gradle 7.1
+```
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -16,7 +17,7 @@ A simple REST API built with Spring boot to manage customer data for a bank
   '  |____| .__|_| |_|_| |_\__, | / / / /
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::        (v2.4.8.RELEASE)
-
+```
 
 ## Summary
 
